@@ -1,5 +1,5 @@
-- 👋 Fala tu, eu sou o Marcos Vinicius, tenho 22 anos.
-- 🌱 Estou atualmente evoluindo em java e Java script.
+- 👋 Fala tu, eu sou o Marcos Vinicius, tenho 25 anos.
+- 🌱 Estou atualmente evoluindo em java e Javascript.
 - 💞️ Estou procurando novos projetos.
 - 📫 Contato: marcosviniciusfaf@gmail.com
 
